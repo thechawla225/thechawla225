@@ -1,6 +1,8 @@
-# Namaste 🙏
+Namaste 🙏
+==========
 
-# I am Ankit Chawla
+I am Ankit Chawla
+=================
 
 ### Here is what I can do:
 
@@ -10,8 +12,14 @@
 
 But most importantly, I can do ✨Magic ✨ with code!
 
+  
+
 ### Find Me
 
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11549120/ankit-chawla) [![Github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thechawla225)[![Stack Overflow](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-chawla-7839a7135/)
+  
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11549120/ankit-chawla) [![Github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thechawla225)[![Stack Overflow](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-chawla-7839a7135/) 
 
-## Thanks for coming!
+  
+
+Thanks for coming!
+------------------
