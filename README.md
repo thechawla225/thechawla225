@@ -1,8 +1,6 @@
-Namaste 🙏 {.code-line data-line-start="0" data-line-end="1"}
-=========
+# Namaste 🙏
 
-I am Ankit Chawla {.code-line data-line-start="1" data-line-end="2"}
-=================
+# I am Ankit Chawla
 
 Here is what I can do:
 
@@ -27,5 +25,4 @@ Here is how you can find me:\
  ![Stack
 Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 
-Have a look at my projects! {.code-line data-line-start="19" data-line-end="20"}
----------------------------
+## Have a look at my projects!
