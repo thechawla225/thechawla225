@@ -1,6 +1,5 @@
-# Namaste 🙏
-
-# I am Ankit Chawla
+<h1 align = 'center'>Namaste 🙏 </h1>
+<h1 align = 'center'>I am Ankit Chawla </h1>
 
 ### Here is what I can do:
 
