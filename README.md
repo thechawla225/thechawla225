@@ -10,7 +10,8 @@
 <p align = 'center'>
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL"></p>
 </p>
-
+<br>
+<p align = 'center'>Contribute to this awsome project: <a href = 'https://github.com/thechawla225/NIte-Mode/blob/master/README.md'>NITE MODE</a></p>
 <br>
 <h2 align = 'center'>Find Me @</h2>
 
