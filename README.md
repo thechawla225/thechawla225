@@ -19,4 +19,6 @@
 </p>
 
 <br>
-<h3 align = 'center'>Thanks for stopping by!</h3>
+<h3 align = 'center'>Thanks for stopping by ❤️!</h3>
+
+
