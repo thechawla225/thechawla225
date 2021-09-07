@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL"><img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&amp;logo=django&amp;logoColor=white" alt="Django"> <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&amp;logo=flask&amp;logoColor=white" alt="Flask"></p>
 </p>
 <br>
-<p align = 'center'>Contribute to this awsome project: <a href = 'https://github.com/thechawla225/NIte-Mode/blob/master/README.md'>NITE MODE</a></p>
+<p align = 'center'>Contribute to this awsome project: <a href = 'https://github.com/thechawla225/NIte-Mode'>NITE MODE</a></p>
 <br>
 <br>
 <br>
