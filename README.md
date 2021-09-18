@@ -10,11 +10,6 @@
 <p align = 'center'>Contribute to this awsome project: <a href = 'https://github.com/thechawla225/NIte-Mode'>NITE MODE</a></p>
 <br>
 <br>
-<br>
-<br>
-
-<br>
-<br>
 <h2 align = 'center'>Find Me @</h2>
 
 <p align = 'center'><a href = "https://stackoverflow.com/users/11549120/ankit-chawla"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&amp;logo=stack-overflow&amp;logoColor=white" alt="Stack Overflow"></a><a href = "https://github.com/thechawla225"> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github"></a><a href = "https://www.linkedin.com/in/ankit-chawla-7839a7135/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Stack Overflow"></a></p></p>
