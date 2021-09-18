@@ -1,5 +1,5 @@
 
-<img align = 'right' src = 'https://media.giphy.com/media/Qc0BxWM9TxljvJug2x/giphy.gif?cid=790b7611aa14031010c5f5e1104900da5da5e93dfaec117a&rid=giphy.gif&ct=g'>
+<img align = 'right' src = 'https://media.giphy.com/media/Qc0BxWM9TxljvJug2x/giphy.gif?cid=790b7611aa14031010c5f5e1104900da5da5e93dfaec117a&rid=giphy.gif&ct=g' height = '300'>
 <h1 align  = 'center'>👋 Hello World!</h1>
 <h1 align  = 'center'>I am Ankit Chawla </h1> 
 
